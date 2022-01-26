@@ -10,7 +10,6 @@ https://jsrepos.com/lib/nickbreaton-vitest-svelte-kit
 ## Additional Dependencies
 
 After this project was created with `npm create svelte@next svelte-kit-demo-app`, the following dependecies were installed:
-
 -   `@testing-library/svelte`
 -   `jsdom`
 -   `vitest`
